@@ -6,6 +6,13 @@
     "children": [
       {
         "type": "link",
+        "addDate": 1729654315812,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/sk8-j.github.io",
+        "url": "https://sk8-j.github.io/pintree/"
+      },
+      {
+        "type": "link",
         "addDate": 1728533408009,
         "title": "欢迎使用 Colaboratory - Colab",
         "icon": "https://logo.clearbit.com/colab.research.google.com",
@@ -1865,6 +1872,13 @@
         "title": "‎Apple Music - 网页播放器",
         "icon": "https://logo.clearbit.com/music.apple.com",
         "url": "https://music.apple.com/cn/browse"
+      },
+      {
+        "type": "link",
+        "addDate": 1729760054392,
+        "title": "MATLAB Home",
+        "icon": "https://logo.clearbit.com/matlab.mathworks.com",
+        "url": "https://matlab.mathworks.com/"
       }
     ]
   },
